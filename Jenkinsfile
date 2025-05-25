@@ -35,7 +35,7 @@ pipeline {
             steps {
                 script {
                     sh '''
-                        mvn test -Dtest=PersonServiceTest
+                        mvn test -Dtest=EducationServiceTest
                     '''
                 }
             }
