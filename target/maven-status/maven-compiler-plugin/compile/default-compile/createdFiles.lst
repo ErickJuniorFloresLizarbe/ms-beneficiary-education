@@ -1,0 +1,7 @@
+pe\edu\vallegrande\education\service\EducationService.class
+pe\edu\vallegrande\education\rest\EducationController.class
+pe\edu\vallegrande\education\EducationApplication.class
+pe\edu\vallegrande\education\config\SwaggerConfig.class
+pe\edu\vallegrande\education\model\dto\EducationDTO.class
+pe\edu\vallegrande\education\repository\EducationRepository.class
+pe\edu\vallegrande\education\model\Education.class
