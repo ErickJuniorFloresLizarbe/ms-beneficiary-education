@@ -1,3 +1,5 @@
+D:\RepoEdu\ms-beneficiary-education\src\main\java\pe\edu\vallegrande\education\config\AuthContextWebFilter.java
+D:\RepoEdu\ms-beneficiary-education\src\main\java\pe\edu\vallegrande\education\config\SecurityConfig.java
 D:\RepoEdu\ms-beneficiary-education\src\main\java\pe\edu\vallegrande\education\config\SwaggerConfig.java
 D:\RepoEdu\ms-beneficiary-education\src\main\java\pe\edu\vallegrande\education\EducationApplication.java
 D:\RepoEdu\ms-beneficiary-education\src\main\java\pe\edu\vallegrande\education\model\dto\EducationDTO.java
@@ -5,3 +7,5 @@ D:\RepoEdu\ms-beneficiary-education\src\main\java\pe\edu\vallegrande\education\m
 D:\RepoEdu\ms-beneficiary-education\src\main\java\pe\edu\vallegrande\education\repository\EducationRepository.java
 D:\RepoEdu\ms-beneficiary-education\src\main\java\pe\edu\vallegrande\education\rest\EducationController.java
 D:\RepoEdu\ms-beneficiary-education\src\main\java\pe\edu\vallegrande\education\service\EducationService.java
+D:\RepoEdu\ms-beneficiary-education\src\main\java\pe\edu\vallegrande\education\webclient\JwtDecoderConfig.java
+D:\RepoEdu\ms-beneficiary-education\src\main\java\pe\edu\vallegrande\education\webclient\WebClientConfig.java
