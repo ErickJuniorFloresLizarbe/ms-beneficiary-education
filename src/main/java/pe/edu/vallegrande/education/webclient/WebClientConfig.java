@@ -11,7 +11,7 @@ import reactor.core.publisher.Mono;
 @Configuration
 public class WebClientConfig {
 
-    @Value("${core-service.url:https://ms-beneficiary-person.onrender.com}") // URL del microservicio destino
+    @Value("${SERVICIES_PERSON}") // URL del microservicio destino
     private String baseUrl;
 
     @Bean

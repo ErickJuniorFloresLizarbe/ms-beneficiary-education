@@ -5,7 +5,7 @@ pe\edu\vallegrande\education\repository\EducationRepository.class
 pe\edu\vallegrande\education\webclient\WebClientConfig.class
 pe\edu\vallegrande\education\webclient\JwtDecoderConfig.class
 pe\edu\vallegrande\education\rest\EducationController.class
-pe\edu\vallegrande\education\config\SwaggerConfig.class
 pe\edu\vallegrande\education\model\dto\EducationDTO.class
 pe\edu\vallegrande\education\config\AuthContextWebFilter.class
+pe\edu\vallegrande\education\config\JwtConverterConfig.class
 pe\edu\vallegrande\education\model\Education.class
